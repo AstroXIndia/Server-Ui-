@@ -19,5 +19,5 @@ Discord: astroxindia (AstroX)
 ![Screenshot_2024-05-13_004241](https://github.com/AstroXIndia/Server-Ui-/assets/142815653/ac15a678-b4fb-40d6-a332-584ffcd60ffe)
 ![Screenshot_2024-05-13_003745](https://github.com/AstroXIndia/Server-Ui-/assets/142815653/d3d6d5a7-6a26-4c33-8aaa-31be2f36ebc9)
 ![Screenshot_2024-05-08_231830](https://github.com/AstroXIndia/Server-Ui-/assets/142815653/933d67d3-d5be-4188-a7db-9b531599525a)
-![Screenshot_2024-05-08_002431](https://github.com/AstroXIndia/Server-Ui-/assets/142815653/c8682ef6-ba80-4f3e-b82c-9f10ec9d4cf5)
+
 
