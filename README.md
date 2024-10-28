@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db105462-8774-410f-9f53-9be13a856003)# Server-Ui-
+# Server-Ui-
 
 
 
@@ -14,6 +14,7 @@ Discord: astroxindia (AstroX)
 ![image](https://github.com/user-attachments/assets/21eec3bd-dad4-498f-9e06-41d37674292f)
 ![image](https://github.com/user-attachments/assets/4d20da0e-8228-4489-a202-9be90eee87b8)
 ![image](https://github.com/user-attachments/assets/4dcfab14-5b4f-43fc-b0ca-b98ac41fe825)
+
 
 
 
